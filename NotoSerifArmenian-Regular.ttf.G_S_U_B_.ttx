@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <GSUB>
+    <Version value="1.0"/>
+    <ScriptList>
+      <!-- ScriptCount=1 -->
+      <ScriptRecord index="0">
+        <ScriptTag value="armn"/>
+        <Script>
+          <DefaultLangSys>
+            <ReqFeatureIndex value="65535"/>
+            <!-- FeatureCount=1 -->
+            <FeatureIndex index="0" value="0"/>
+          </DefaultLangSys>
+          <!-- LangSysCount=0 -->
+        </Script>
+      </ScriptRecord>
+    </ScriptList>
+    <FeatureList>
+      <!-- FeatureCount=1 -->
+      <FeatureRecord index="0">
+        <FeatureTag value="liga"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+    </FeatureList>
+    <LookupList>
+      <!-- LookupCount=1 -->
+      <Lookup index="0">
+        <LookupType value="4"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <LigatureSubst index="0" Format="1">
+          <LigatureSet glyph="uni0548">
+            <Ligature components="uni0552" glyph="glyph00096"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0574">
+            <Ligature components="uni0576" glyph="uniFB13"/>
+            <Ligature components="uni0565" glyph="uniFB14"/>
+            <Ligature components="uni056B" glyph="uniFB15"/>
+            <Ligature components="uni056D" glyph="uniFB17"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0578">
+            <Ligature components="uni0582" glyph="glyph00097"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni057E">
+            <Ligature components="uni0576" glyph="uniFB16"/>
+          </LigatureSet>
+        </LigatureSubst>
+      </Lookup>
+    </LookupList>
+  </GSUB>
+
+</ttFont>

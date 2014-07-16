@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <cmap>
+    <tableVersion version="0"/>
+    <cmap_format_4 platformID="3" platEncID="1" language="0">
+      <map code="0x0" name="uniFEFF"/><!-- &lt;control> -->
+      <map code="0xd" name="uni000D"/><!-- &lt;control> -->
+      <map code="0x20" name="uni00A0"/><!-- SPACE -->
+      <map code="0xa0" name="uni00A0"/><!-- NO-BREAK SPACE -->
+      <map code="0x531" name="uni0531"/><!-- ARMENIAN CAPITAL LETTER AYB -->
+      <map code="0x532" name="uni0532"/><!-- ARMENIAN CAPITAL LETTER BEN -->
+      <map code="0x533" name="uni0533"/><!-- ARMENIAN CAPITAL LETTER GIM -->
+      <map code="0x534" name="uni0534"/><!-- ARMENIAN CAPITAL LETTER DA -->
+      <map code="0x535" name="uni0535"/><!-- ARMENIAN CAPITAL LETTER ECH -->
+      <map code="0x536" name="uni0536"/><!-- ARMENIAN CAPITAL LETTER ZA -->
+      <map code="0x537" name="uni0537"/><!-- ARMENIAN CAPITAL LETTER EH -->
+      <map code="0x538" name="uni0538"/><!-- ARMENIAN CAPITAL LETTER ET -->
+      <map code="0x539" name="uni0539"/><!-- ARMENIAN CAPITAL LETTER TO -->
+      <map code="0x53a" name="uni053A"/><!-- ARMENIAN CAPITAL LETTER ZHE -->
+      <map code="0x53b" name="uni053B"/><!-- ARMENIAN CAPITAL LETTER INI -->
+      <map code="0x53c" name="uni053C"/><!-- ARMENIAN CAPITAL LETTER LIWN -->
+      <map code="0x53d" name="uni053D"/><!-- ARMENIAN CAPITAL LETTER XEH -->
+      <map code="0x53e" name="uni053E"/><!-- ARMENIAN CAPITAL LETTER CA -->
+      <map code="0x53f" name="uni053F"/><!-- ARMENIAN CAPITAL LETTER KEN -->
+      <map code="0x540" name="uni0540"/><!-- ARMENIAN CAPITAL LETTER HO -->
+      <map code="0x541" name="uni0541"/><!-- ARMENIAN CAPITAL LETTER JA -->
+      <map code="0x542" name="uni0542"/><!-- ARMENIAN CAPITAL LETTER GHAD -->
+      <map code="0x543" name="uni0543"/><!-- ARMENIAN CAPITAL LETTER CHEH -->
+      <map code="0x544" name="uni0544"/><!-- ARMENIAN CAPITAL LETTER MEN -->
+      <map code="0x545" name="uni0545"/><!-- ARMENIAN CAPITAL LETTER YI -->
+      <map code="0x546" name="uni0546"/><!-- ARMENIAN CAPITAL LETTER NOW -->
+      <map code="0x547" name="uni0547"/><!-- ARMENIAN CAPITAL LETTER SHA -->
+      <map code="0x548" name="uni0548"/><!-- ARMENIAN CAPITAL LETTER VO -->
+      <map code="0x549" name="uni0549"/><!-- ARMENIAN CAPITAL LETTER CHA -->
+      <map code="0x54a" name="uni054A"/><!-- ARMENIAN CAPITAL LETTER PEH -->
+      <map code="0x54b" name="uni054B"/><!-- ARMENIAN CAPITAL LETTER JHEH -->
+      <map code="0x54c" name="uni054C"/><!-- ARMENIAN CAPITAL LETTER RA -->
+      <map code="0x54d" name="uni054D"/><!-- ARMENIAN CAPITAL LETTER SEH -->
+      <map code="0x54e" name="uni054E"/><!-- ARMENIAN CAPITAL LETTER VEW -->
+      <map code="0x54f" name="uni054F"/><!-- ARMENIAN CAPITAL LETTER TIWN -->
+      <map code="0x550" name="uni0550"/><!-- ARMENIAN CAPITAL LETTER REH -->
+      <map code="0x551" name="uni0551"/><!-- ARMENIAN CAPITAL LETTER CO -->
+      <map code="0x552" name="uni0552"/><!-- ARMENIAN CAPITAL LETTER YIWN -->
+      <map code="0x553" name="uni0553"/><!-- ARMENIAN CAPITAL LETTER PIWR -->
+      <map code="0x554" name="uni0554"/><!-- ARMENIAN CAPITAL LETTER KEH -->
+      <map code="0x555" name="uni0555"/><!-- ARMENIAN CAPITAL LETTER OH -->
+      <map code="0x556" name="uni0556"/><!-- ARMENIAN CAPITAL LETTER FEH -->
+      <map code="0x559" name="uni0559"/><!-- ARMENIAN MODIFIER LETTER LEFT HALF RING -->
+      <map code="0x55a" name="uni055A"/><!-- ARMENIAN APOSTROPHE -->
+      <map code="0x55b" name="uni055B"/><!-- ARMENIAN EMPHASIS MARK -->
+      <map code="0x55c" name="uni055C"/><!-- ARMENIAN EXCLAMATION MARK -->
+      <map code="0x55d" name="uni055D"/><!-- ARMENIAN COMMA -->
+      <map code="0x55e" name="uni055E"/><!-- ARMENIAN QUESTION MARK -->
+      <map code="0x55f" name="uni055F"/><!-- ARMENIAN ABBREVIATION MARK -->
+      <map code="0x561" name="uni0561"/><!-- ARMENIAN SMALL LETTER AYB -->
+      <map code="0x562" name="uni0562"/><!-- ARMENIAN SMALL LETTER BEN -->
+      <map code="0x563" name="uni0563"/><!-- ARMENIAN SMALL LETTER GIM -->
+      <map code="0x564" name="uni0564"/><!-- ARMENIAN SMALL LETTER DA -->
+      <map code="0x565" name="uni0565"/><!-- ARMENIAN SMALL LETTER ECH -->
+      <map code="0x566" name="uni0566"/><!-- ARMENIAN SMALL LETTER ZA -->
+      <map code="0x567" name="uni0567"/><!-- ARMENIAN SMALL LETTER EH -->
+      <map code="0x568" name="uni0568"/><!-- ARMENIAN SMALL LETTER ET -->
+      <map code="0x569" name="uni0569"/><!-- ARMENIAN SMALL LETTER TO -->
+      <map code="0x56a" name="uni056A"/><!-- ARMENIAN SMALL LETTER ZHE -->
+      <map code="0x56b" name="uni056B"/><!-- ARMENIAN SMALL LETTER INI -->
+      <map code="0x56c" name="uni056C"/><!-- ARMENIAN SMALL LETTER LIWN -->
+      <map code="0x56d" name="uni056D"/><!-- ARMENIAN SMALL LETTER XEH -->
+      <map code="0x56e" name="uni056E"/><!-- ARMENIAN SMALL LETTER CA -->
+      <map code="0x56f" name="uni056F"/><!-- ARMENIAN SMALL LETTER KEN -->
+      <map code="0x570" name="uni0570"/><!-- ARMENIAN SMALL LETTER HO -->
+      <map code="0x571" name="uni0571"/><!-- ARMENIAN SMALL LETTER JA -->
+      <map code="0x572" name="uni0572"/><!-- ARMENIAN SMALL LETTER GHAD -->
+      <map code="0x573" name="uni0573"/><!-- ARMENIAN SMALL LETTER CHEH -->
+      <map code="0x574" name="uni0574"/><!-- ARMENIAN SMALL LETTER MEN -->
+      <map code="0x575" name="uni0575"/><!-- ARMENIAN SMALL LETTER YI -->
+      <map code="0x576" name="uni0576"/><!-- ARMENIAN SMALL LETTER NOW -->
+      <map code="0x577" name="uni0577"/><!-- ARMENIAN SMALL LETTER SHA -->
+      <map code="0x578" name="uni0578"/><!-- ARMENIAN SMALL LETTER VO -->
+      <map code="0x579" name="uni0579"/><!-- ARMENIAN SMALL LETTER CHA -->
+      <map code="0x57a" name="uni057A"/><!-- ARMENIAN SMALL LETTER PEH -->
+      <map code="0x57b" name="uni057B"/><!-- ARMENIAN SMALL LETTER JHEH -->
+      <map code="0x57c" name="uni057C"/><!-- ARMENIAN SMALL LETTER RA -->
+      <map code="0x57d" name="uni057D"/><!-- ARMENIAN SMALL LETTER SEH -->
+      <map code="0x57e" name="uni057E"/><!-- ARMENIAN SMALL LETTER VEW -->
+      <map code="0x57f" name="uni057F"/><!-- ARMENIAN SMALL LETTER TIWN -->
+      <map code="0x580" name="uni0580"/><!-- ARMENIAN SMALL LETTER REH -->
+      <map code="0x581" name="uni0581"/><!-- ARMENIAN SMALL LETTER CO -->
+      <map code="0x582" name="uni0582"/><!-- ARMENIAN SMALL LETTER YIWN -->
+      <map code="0x583" name="uni0583"/><!-- ARMENIAN SMALL LETTER PIWR -->
+      <map code="0x584" name="uni0584"/><!-- ARMENIAN SMALL LETTER KEH -->
+      <map code="0x585" name="uni0585"/><!-- ARMENIAN SMALL LETTER OH -->
+      <map code="0x586" name="uni0586"/><!-- ARMENIAN SMALL LETTER FEH -->
+      <map code="0x587" name="uni0587"/><!-- ARMENIAN SMALL LIGATURE ECH YIWN -->
+      <map code="0x589" name="uni0589"/><!-- ARMENIAN FULL STOP -->
+      <map code="0x58a" name="uni058A"/><!-- ARMENIAN HYPHEN -->
+      <map code="0x58f" name="uni058F"/><!-- ???? -->
+      <map code="0xfb13" name="uniFB13"/><!-- ARMENIAN SMALL LIGATURE MEN NOW -->
+      <map code="0xfb14" name="uniFB14"/><!-- ARMENIAN SMALL LIGATURE MEN ECH -->
+      <map code="0xfb15" name="uniFB15"/><!-- ARMENIAN SMALL LIGATURE MEN INI -->
+      <map code="0xfb16" name="uniFB16"/><!-- ARMENIAN SMALL LIGATURE VEW NOW -->
+      <map code="0xfb17" name="uniFB17"/><!-- ARMENIAN SMALL LIGATURE MEN XEH -->
+      <map code="0xfeff" name="uniFEFF"/><!-- ZERO WIDTH NO-BREAK SPACE -->
+    </cmap_format_4>
+  </cmap>
+
+</ttFont>
